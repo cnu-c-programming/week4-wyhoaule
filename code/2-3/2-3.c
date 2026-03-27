@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    char a[64] = "hello";
+    char a[64] = "Hello";
     char b[64] = "world";
     char c[128];
 
